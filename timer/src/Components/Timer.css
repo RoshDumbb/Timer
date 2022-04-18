@@ -1,0 +1,18 @@
+.timer{
+    color: aqua;
+}
+.maindiv{
+    border: 1px solid red;
+    width: 120%;
+    height: 30%;
+    border-radius: 50px;
+    background-color: rgb(5, 25, 32);
+}
+.maindiv{
+    cursor: pointer;
+  
+}
+.maindiv:hover{
+      border-color: purple;
+     border-style: dotted;
+}
